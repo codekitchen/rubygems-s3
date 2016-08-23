@@ -3,6 +3,10 @@
 This rubygems plugin allows you to add private S3 rubygems repos as
 sources in your gemrc file.
 
+## Deprecated
+
+There is no need to use this plugin anymore, except with older versions of rubygems, as this functionality has been merged into rubygems itself. See https://github.com/rubygems/rubygems/pull/856
+
 ## Installation
 
 You'll need a recent version of rubygems.
